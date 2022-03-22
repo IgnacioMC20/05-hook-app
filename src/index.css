@@ -3,6 +3,7 @@ body{
     color: white;
     padding: 70px;
 }
+
 p{
     margin: 0px;
     cursor: pointer;
@@ -11,3 +12,4 @@ p{
 .complete{
     text-decoration: line-through;
 }
+
